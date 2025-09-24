@@ -67,7 +67,7 @@ export default function App(){
   return (
     <div className="app-root">
       <ChatWindow messages={history} onSend={onUserSend} />
-      <footer className="credits">Youth Festival- 2025 SGBAU • <code>by akash</code></footer>
+      <footer className="credits">Youth Festival- 2025 SGBAU • <code>by Akash</code></footer>
     </div>
   )
 }
