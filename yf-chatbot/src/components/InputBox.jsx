@@ -16,7 +16,7 @@ export default function InputBox({ onSend }) {
       <input
         value={text}
         onChange={(e) => setText(e.target.value)}
-        placeholder={`टाइप करा — उदाहरण: hi किंवा 1`}
+        placeholder={`TYPE — for e.g: hi or 1`}
         aria-label="chat input"
       />
       <button type="submit" className="send-btn">
