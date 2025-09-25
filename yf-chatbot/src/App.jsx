@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react'
 import ChatWindow from './components/ChatWindow'
 import messagesData from './data/messages.json'
 
+
 export default function App(){
   const [history, setHistory] = useState([])
 
