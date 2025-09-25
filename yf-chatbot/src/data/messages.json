@@ -1,30 +1,13 @@
 {
   "menu": {
-    "text": "आंतर महाविद्यालयीन युवा महोत्सव 2025\nSHRIMATI.KESHARBAI LAHOTI MAHAVIDYALAYA, AMRAVATI\nआपले सहर्ष स्वागत करीत आहे\n🙏 🙏 💐💐\n\n• युवा महोत्सव 2025 स्थळाचे LOCATION जाणून घेण्यासाठी  1  TYPE करा\n\n• निमंत्रण पत्रिका पाहण्यासाठी  2 TYPE करा\n\n• स्पर्धेच्या वेळापत्रकाची माहिती जाणून घेण्यासाठी  3 TYPE करा\n\n• निवास व्यवस्था माहिती करिता 4 TYPE करा\n\n• स्पर्धा नोंदणी संबंधी माहिती साठी 5 TYPE करा\n\n• स्पर्धेचे नियम, अटी व इतर माहिती जाणून घेण्यासाठी  6 TYPE करा\n\n• युवा महोत्सव 2025 बाबत FEEDBACK देण्यासाठी  7  TYPE करा ( ही सेवा 7 OCTOMBER सायंकाळी 6.00 pm पासून उपलब्ध होईल )\n\n(मुख्य मेन्यू पाहण्यासाठी hi, hello, किंवा 1–7 टाइप करा)"
+    "text": "आंतर महाविद्यालयीन युवा महोत्सव 2025\nSHRIMATI.KESHARBAI LAHOTI MAHAVIDYALAYA, AMRAVATI\nआपले सहर्ष स्वागत करीत आहे\n🙏 🙏 💐💐\n\n• युवा महोत्सव 2025 स्थळाचे LOCATION जाणून घेण्यासाठी  1 TYPE करा\n\n• निमंत्रण पत्रिका पाहण्यासाठी  2 TYPE करा\n\n• स्पर्धेच्या वेळापत्रकाची माहिती जाणून घेण्यासाठी  3 TYPE करा\n\n• 6 स्थळांची माहिती जाणून घेण्यासाठी  4 TYPE करा\n\n• स्पर्धा नोंदणी संबंधी माहिती साठी 5 TYPE करा\n\n• स्पर्धेचे नियम, अटी व इतर माहिती जाणून घेण्यासाठी  6 TYPE करा\n\n• युवा महोत्सव 2025 बाबत FEEDBACK देण्यासाठी  7 TYPE करा (ही सेवा 7 OCTOBER सायंकाळी 6.00 pm पासून उपलब्ध होईल)\n\n• पार्किंगची माहिती जाणून घेण्यासाठी  8 TYPE करा\n\n(मुख्य मेन्यू पाहण्यासाठी hi, hello किंवा 1–8 टाइप करा)"
   },
   "options": {
     "1": {
-      "text": "युवा महोत्सव 2025 स्थळाचे लोकेशन पाहण्या साठी या लिंक ला क्लिक करा\n👇👇\n",
+      "text": "युवा महोत्सव 2025 स्थळाचे लोकेशन पाहण्यासाठी खालील लिंकवर क्लिक करा",
       "links": [
         { "label": "COLLEGE LOCATION (Google Maps)", "url": "https://www.google.com/maps/place/PLACE_PLACEHOLDER" },
         { "label": "COLLEGE NAME WITH ADDRESS", "url": "https://www.google.com/maps/search/COLLEGE_ADDRESS_PLACEHOLDER" }
-      ]
-    },
-    "1_sub_p": {
-      "text": "PARKING DETAILS\n",
-      "links": [
-        { "label": "PARKING LOCATION (Google Maps)", "url": "https://www.google.com/maps/search/PARKING_PLACEHOLDER" }
-      ]
-    },
-    "1_sub_0": {
-      "text": "NAME AND LOCATION OF ALL HALLS (6 halls)\n",
-      "links": [
-        { "label": "Hall 1 - Hall Name & map", "url": "https://www.google.com/maps/place/HALL1" },
-        { "label": "Hall 2 - Hall Name & map", "url": "https://www.google.com/maps/place/HALL2" },
-        { "label": "Hall 3 - Hall Name & map", "url": "https://www.google.com/maps/place/HALL3" },
-        { "label": "Hall 4 - Hall Name & map", "url": "https://www.google.com/maps/place/HALL4" },
-        { "label": "Hall 5 - Hall Name & map", "url": "https://www.google.com/maps/place/HALL5" },
-        { "label": "Hall 6 - Hall Name & map", "url": "https://www.google.com/maps/place/HALL6" }
       ]
     },
     "2": {
@@ -40,9 +23,20 @@
       ]
     },
     "4": {
-      "text": "INFORMATION ABOUT STAY FACILITY",
+      "text": "NAME AND LOCATION OF ALL 6 VENUES",
       "links": [
-        { "label": "Stay locations & info", "url": "https://drive.google.com/drive/folders/STAY_PLACEHOLDER" }
+        { "label": "Venue 1 - Name & map", "url": "https://www.google.com/maps/place/VENUE1" },
+        { "label": "Venue 2 - Name & map", "url": "https://www.google.com/maps/place/VENUE2" },
+        { "label": "Venue 3 - Name & map", "url": "https://www.google.com/maps/place/VENUE3" },
+        { "label": "Venue 4 - Name & map", "url": "https://www.google.com/maps/place/VENUE4" },
+        { "label": "Venue 5 - Name & map", "url": "https://www.google.com/maps/place/VENUE5" },
+        { "label": "Venue 6 - Name & map", "url": "https://www.google.com/maps/place/VENUE6" },
+               { "label": "Venue 1 - Name & map", "url": "https://www.google.com/maps/place/VENUE1" },
+        { "label": "Venue 2 - Name & map", "url": "https://www.google.com/maps/place/VENUE2" },
+        { "label": "Venue 3 - Name & map", "url": "https://www.google.com/maps/place/VENUE3" },
+        { "label": "Venue 4 - Name & map", "url": "https://www.google.com/maps/place/VENUE4" },
+        { "label": "Venue 5 - Name & map", "url": "https://www.google.com/maps/place/VENUE5" },
+        { "label": "Venue 6 - Name & map", "url": "https://www.google.com/maps/place/VENUE6" }
       ]
     },
     "5": {
@@ -61,6 +55,12 @@
       "text": "FEED FORM FOR YF",
       "links": [
         { "label": "Google Form (Feedback)", "url": "https://forms.gle/FEEDBACK_FORM_PLACEHOLDER" }
+      ]
+    },
+    "8": {
+      "text": "PARKING DETAILS",
+      "links": [
+        { "label": "PARKING LOCATION (Google Maps)", "url": "https://www.google.com/maps/search/PARKING_PLACEHOLDER" }
       ]
     }
   }

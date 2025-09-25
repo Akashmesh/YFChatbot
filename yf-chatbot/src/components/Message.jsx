@@ -3,7 +3,6 @@ import React from 'react'
 function renderPayload(payload){
   if(!payload) return null
   if(typeof payload === 'string') return <div className="msg-text">{payload}</div>
-  // object form: { text: '', links: [ { label, url } ] }
   return (
     <div className="msg-text">
       {payload.text && <div className="text-block">{payload.text}</div>}

@@ -6,7 +6,6 @@ export default function MessageList({ messages }){
   const endRef = useRef(null)
 
   useEffect(()=>{
-    // auto-scroll when messages change
     endRef.current?.scrollIntoView({ behavior: 'smooth', block: 'end' })
   },[messages])
 
