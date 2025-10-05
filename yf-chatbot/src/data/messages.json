@@ -1,59 +1,54 @@
 {
   "menu": {
-    "text": "<b>आंतर महाविद्यालयीन युवा महोत्सव 2025\nविद्यार्थी विकास विभाग,\n संत गाडगे बाबा अमरावती , विद्यापीठ </b>\nआपले सहर्ष स्वागत करीत आहे\n🙏🙏💐💐\n\n• युवा महोत्सव 2025 स्थळाचे LOCATION जाणून घेण्यासाठी  <b>1</b> TYPE करा\n\n• निमंत्रण पत्रिका पाहण्यासाठी  <b>2</b> TYPE करा\n\n• स्पर्धेच्या वेळापत्रकाची माहिती जाणून घेण्यासाठी  <b>3</b> TYPE करा\n\n• 6 स्थळांची माहिती जाणून घेण्यासाठी  <b>4</b> TYPE करा\n\n• स्पर्धा नोंदणी संबंधी माहिती साठी <b>5</b> TYPE करा\n\n• स्पर्धेचे नियम, अटी व इतर माहिती जाणून घेण्यासाठी  <b>6</b> TYPE करा\n\n• युवा महोत्सव 2025 बाबत FEEDBACK देण्यासाठी  <b>7</b> TYPE करा (ही सेवा 7 OCTOBER सायंकाळी 6.00 pm पासून उपलब्ध होईल)\n\n• पार्किंगची माहिती जाणून घेण्यासाठी  <b>8</b> TYPE करा\n\n(मुख्य मेन्यू पाहण्यासाठी <b>hi</b> टाइप करा)"
+    "text": "<b>आंतर महाविद्यालयीन युवा महोत्सव 2025\n'युवा स्पंदन' \nविद्यार्थी विकास विभाग,\n संत गाडगे बाबा अमरावती , विद्यापीठ </b>\nआपले सहर्ष स्वागत करीत आहे\n🙏🙏💐💐\n--------------------------------------------\n• युवा महोत्सव 2025 स्थळाचे LOCATION जाणून घेण्यासाठी  <b>1</b> TYPE करा\n--------------------------------------------\n• निमंत्रण पत्रिका पाहण्यासाठी  <b>2</b> TYPE करा\n--------------------------------------------\n• स्पर्धेच्या वेळापत्रकाची माहिती जाणून घेण्यासाठी  <b>3</b> TYPE करा\n--------------------------------------------\n• 6 स्थळांची माहिती जाणून घेण्यासाठी  <b>4</b> TYPE करा\n--------------------------------------------\n• स्पर्धा नोंदणी संबंधी माहिती साठी <b>5</b> TYPE करा\n--------------------------------------------\n• स्पर्धेचे नियम, अटी व इतर माहिती जाणून घेण्यासाठी  <b>6</b> TYPE करा\n--------------------------------------------\n• युवा महोत्सव 2025 बाबत FEEDBACK देण्यासाठी  <b>7</b> TYPE करा (ही सेवा 7 OCTOBER सायंकाळी 6.00 pm पासून उपलब्ध होईल)\n--------------------------------------------\n• पार्किंगचे स्थळ जाणून घेण्यासाठी  <b>8</b> TYPE करा\n\n(मुख्य मेन्यू पाहण्यासाठी <b>hi</b> टाइप करा)"
   },
 
   "options": {
     "1": {
       "text": "युवा महोत्सव 2025 स्थळाचे लोकेशन पाहण्यासाठी खालील लिंकवर क्लिक करा",
-      "links": [
-        { "label": "COLLEGE LOCATION (Google Maps)", "url": "https://www.google.com/maps/place/PLACE_PLACEHOLDER" },
-        { "label": "COLLEGE NAME WITH ADDRESS", "url": "https://www.google.com/maps/search/COLLEGE_ADDRESS_PLACEHOLDER" }
+      "links": [    
+        { "label": "श्रीमती केशरबाई लाहोटी महाविद्यालय,मोर्शी रोड, पंचवटी, अमरावती ", "url": "https://maps.app.goo.gl/yWTkkgMmcBBdo2zSA" }
+
       ]
     },
     "2": {
       "text": "NIMANTRAN PATRIKA",
       "links": [
-        { "label": "Download/invite (Drive)", "url": "https://drive.google.com/drive/folders/INVITE_FOLDER_PLACEHOLDER" }
+        { "label": "Download", "url": "https://drive.google.com/file/d/1veuY9lijGLbAmfpsDGo8UkwsEPfpLWFl/view?usp=drive_link" }
       ]
     },
     "3": {
-      "text": "YF COMPETITION TIMETABLE",
+      "text": "स्पर्धा वेळापत्रक",
       "links": [
-        { "label": "Timetable (Drive)", "url": "https://drive.google.com/drive/folders/TIMETABLE_FOLDER_PLACEHOLDER" }
+        { "label": "Download", "url": "https://drive.google.com/file/d/1P6QIZfsg194gFjQXq4dZ-ObxBPDyrROw/view?usp=drive_link" }
       ]
     },
     "4": {
-      "text": "NAME AND LOCATION OF ALL 6 VENUES",
+      "text": "कार्यक्रमाचे स्थळ ",
       "links": [
-        { "label": "Venue 1 - Name & map", "url": "https://www.google.com/maps/place/VENUE1" },
-        { "label": "Venue 2 - Name & map", "url": "https://www.google.com/maps/place/VENUE2" },
-        { "label": "Venue 3 - Name & map", "url": "https://www.google.com/maps/place/VENUE3" },
-        { "label": "Venue 4 - Name & map", "url": "https://www.google.com/maps/place/VENUE4" },
-        { "label": "Venue 5 - Name & map", "url": "https://www.google.com/maps/place/VENUE5" },
-        { "label": "Venue 6 - Name & map", "url": "https://www.google.com/maps/place/VENUE6" },
-               { "label": "Venue 1 - Name & map", "url": "https://www.google.com/maps/place/VENUE1" },
-        { "label": "Venue 2 - Name & map", "url": "https://www.google.com/maps/place/VENUE2" },
-        { "label": "Venue 3 - Name & map", "url": "https://www.google.com/maps/place/VENUE3" },
-        { "label": "Venue 4 - Name & map", "url": "https://www.google.com/maps/place/VENUE4" },
-        { "label": "Venue 5 - Name & map", "url": "https://www.google.com/maps/place/VENUE5" },
-        { "label": "Venue 6 - Name & map", "url": "https://www.google.com/maps/place/VENUE6" }
+        { "label": "श्री. गणेश दास राठी विद्यालय , मुख्य रंगमंच", "url": "https://www.google.com/maps/place/20.941131,77.767744/data=!4m6!3m5!1s0!7e2!8m2!3d20.941131!4d77.767744?utm_source=mstt_1&entry=gps&coh=192189&g_ep=CAESBzI1LjM5LjcYACDl7Q0qogEsOTQyODY1OTQsOTQyNjc3MjcsOTQyNzU0MDMsOTQyOTIxOTEsOTQyODQ1MDIsOTQyMjMyOTksOTQyMTY0MTMsOTQyODA1NzYsOTQyMTI0OTYsOTQyMDczOTQsOTQyMDc1MDYsOTQyMDg1MDYsOTQyMTc1MjMsOTQyMTg2NTMsOTQyMjk4MzksOTQyNzUxNjgsNDcwODQzOTMsOTQyMTMyMDBCAklO&skid=e3ac62ee-6244-4bb2-aa9a-7d7ba5f8e3b2&g_st=aw" },
+        { "label": "मातोश्री. विमलाबाई देशमुख सभागृह", "url": "http://google.com/maps/place/20.939766,77.769224/data=!4m6!3m5!1s0!7e2!8m2!3d20.939766!4d77.769224?utm_source=mstt_1&entry=gps&coh=192189&g_ep=CAESBzI1LjM5LjcYACDl7Q0qogEsOTQyODY1OTQsOTQyNjc3MjcsOTQyNzU0MDMsOTQyOTIxOTEsOTQyODQ1MDIsOTQyMjMyOTksOTQyMTY0MTMsOTQyODA1NzYsOTQyMTI0OTYsOTQyMDczOTQsOTQyMDc1MDYsOTQyMDg1MDYsOTQyMTc1MjMsOTQyMTg2NTMsOTQyMjk4MzksOTQyNzUxNjgsNDcwODQzOTMsOTQyMTMyMDBCAklO&skid=d38b0d28-3ab7-43ab-b3ae-88374f80c26e&g_st=aw" },
+        { "label": "जे .सी. आय सभागृह, श्री शिवाजी डी.एड कॉलेज.  मातोश्री. विमलाबाई देशमुख सभागृहाच्या बाजूला", "url": "https://www.google.com/maps/place/20%C2%B056'23.2%22N+77%C2%B046'09.2%22E/@20.939766,77.769224,17z/data=!3m1!4b1!4m4!3m3!8m2!3d20.939766!4d77.769224?entry=ttu&g_ep=EgoyMDI1MTAwMS4wIKXMDSoASAFQAw%3D%3D" },
+        { "label": "श्रीमती केशरबाई लाहोटी महाविद्यालय (MCVC विभाग)", "url": "https://www.google.com/maps/place/20%C2%B056'28.4%22N+77%C2%B045'58.3%22E/@20.9412081,77.7636259,17z/data=!3m1!4b1!4m4!3m3!8m2!3d20.9412081!4d77.7662008?hl=en&entry=ttu&g_ep=EgoyMDI1MTAwMS4wIKXMDSoASAFQAw%3D%3D" },
+        { "label": "स्व. शंकरलाल राठी सभागृह,श्रीमती केशरबाई लाहोटी महाविद्यालय", "url": "https://www.google.com/maps/place/20%C2%B056'27.8%22N+77%C2%B046'01.3%22E/@20.94106,77.767017,17z/data=!3m1!4b1!4m4!3m3!8m2!3d20.94106!4d77.767017?entry=ttu&g_ep=EgoyMDI1MTAwMS4wIKXMDSoASAFQAw%3D%3D" },
+        { "label": "श्रीमती केशरबाई लाहोटी महाविद्यालय,आर्टस विंग", "url": "http://google.com/maps/place/20.940772,77.766767/data=!4m6!3m5!1s0!7e2!8m2!3d20.940772!4d77.766767?utm_source=mstt_1&entry=gps&coh=192189&g_ep=CAESBzI1LjM5LjcYACDl7Q0qogEsOTQyODY1OTQsOTQyNjc3MjcsOTQyNzU0MDMsOTQyOTIxOTEsOTQyODQ1MDIsOTQyMjMyOTksOTQyMTY0MTMsOTQyODA1NzYsOTQyMTI0OTYsOTQyMDczOTQsOTQyMDc1MDYsOTQyMDg1MDYsOTQyMTc1MjMsOTQyMTg2NTMsOTQyMjk4MzksOTQyNzUxNjgsNDcwODQzOTMsOTQyMTMyMDBCAklO&skid=3247a9bc-68ff-4d53-9b0e-59afa06fb9b2&g_st=aw" },
+        { "label": "श्रीमती केशरबाई लाहोटी महाविद्यालय,खुला रंगमच", "url": "https://www.google.com/maps/place/20%C2%B056'28.6%22N+77%C2%B046'01.4%22E/@20.941264,77.767062,17z/data=!3m1!4b1!4m4!3m3!8m2!3d20.941264!4d77.767062?entry=ttu&g_ep=EgoyMDI1MTAwMS4wIKXMDSoASAFQAw%3D%3D" }
       ]
     },
     "5": {
-      "text": "INFOMATION ABOUT COMPETITION REGISTRATION",
+      "text": "स्पर्धा नोंदणी माहिती",
       "links": [
-        { "label": "Registration Location/Link", "url": "https://maps.google.com/?q=REGISTRATION_PLACEHOLDER" }
+        { "label": "Download", "url": "https://drive.google.com/file/d/1o7TgEKXV40loGrA7KYipiZeEOtiL1yrY/view?usp=drive_link" }
       ]
     },
     "6": {
-      "text": "YF RULES AND REGULATION\nOTHER GENERAL INFORMATION",
+      "text": "माहिती पुस्तिका ",
       "links": [
-        { "label": "Rules (Drive)", "url": "https://drive.google.com/drive/folders/RULES_PLACEHOLDER" }
+        { "label": "Download", "url": "https://drive.google.com/file/d/16yE2nLiovCgmHAquwVz9ZbQF3MbYi1pf/view?usp=drive_link" }
       ]
     },
     "7": {
-      "text": "FEED FORM FOR YF",
+      "text": "FEEDBACK FOR YOUTH FESTIVAL",
       "links": [
         { "label": "Google Form (Feedback)", "url": "https://forms.gle/FEEDBACK_FORM_PLACEHOLDER" }
       ]
@@ -61,7 +56,7 @@
     "8": {
       "text": "PARKING DETAILS",
       "links": [
-        { "label": "PARKING LOCATION (Google Maps)", "url": "https://www.google.com/maps/search/PARKING_PLACEHOLDER" }
+        { "label": "पार्किंग LOCATION", "url": "https://www.google.com/maps/place/20%C2%B056'33.3%22N+77%C2%B046'05.5%22E/@20.942588,77.768205,17z/data=!3m1!4b1!4m4!3m3!8m2!3d20.942588!4d77.768205?entry=ttu&g_ep=EgoyMDI1MTAwMS4wIKXMDSoASAFQAw%3D%3D" }
       ]
     }
   }
