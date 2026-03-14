@@ -109,14 +109,12 @@ If you add new numbered options, also update the input check in the app logic.
 
 Bot messages are rendered as HTML so the JSON content can include formatting and links. Keep `src/data/messages.json` limited to trusted content only.
 
-## App README
-
-The app folder also contains a short README for local development inside `yf-chatbot/README.md`.
 
 ## Images
 
 ### SGBAU YF_CHATBOT 2025
 
-<img src="./yf-chatbot/public/img1.png alt="SGBAU Logo" width="220" />
-<img src="./yf-chatbot/public/img2.pngalt="SGBAU Logo" width="220" />
+![Admin Dashboard](./client/public/readme/dashboard.png)
 
+![Admin - Users](./yf-chatbot/public/img1.png)
+![Admin - Users](./yf-chatbot/public/img2.png)
