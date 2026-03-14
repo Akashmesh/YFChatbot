@@ -114,7 +114,6 @@ Bot messages are rendered as HTML so the JSON content can include formatting and
 
 ### SGBAU YF_CHATBOT 2025
 
-![Admin Dashboard](./client/public/readme/dashboard.png)
 
 ![Admin - Users](./yf-chatbot/public/img1.png)
 ![Admin - Users](./yf-chatbot/public/img2.png)
